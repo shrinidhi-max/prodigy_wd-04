@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Web Developer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <h1 class="logo">Your Name</h1>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Home Section -->
+    <section id="home" class="home-section">
+        <div class="container">
+            <div class="hero-content">
+                <h2>Crafting Digital Experiences</h2>
+                <img src="your-photo.jpg" alt="Your Name">
+                <p class="skills-summary">Full-stack web developer passionate about creating responsive and user-friendly applications.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Me Section -->
+    <section id="about" class="about-section">
+        <div class="container">
+            <h2>About Me</h2>
+            <div class="about-content">
+                <p>Personal introduction and what drives you in web development.</p>
+                <h3>Background</h3>
+                <p>Detailed background information, including previous roles or freelance projects.</p>
+                <h3>Education</h3>
+                <p>Mention your educational background (degrees, certifications).</p>
+                <h3>Skills and Expertise</h3>
+                <p>Elaborate on your technical skills and any unique strengths you bring to projects.</p>
+                <h3>Interests</h3>
+                <p>Personal interests related to web development or technology.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Include your Projects and Contact sections similarly -->
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Your Name. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="scripts.js"></script>
+</body>
+</html>
